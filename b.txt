@@ -1,3 +1,4 @@
 This is B file
 
 Feature add by MASTER
+feature A update by BETA
